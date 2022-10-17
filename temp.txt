@@ -1,0 +1,27 @@
+let questions = [
+    {
+        question: 'Test',
+        choice1: 'test',
+        choice2: 'test',
+        choice3: 'test',
+        choice4: 'test',
+        answer: 1,
+    },
+    {
+        question:
+            "Test",
+        choice1: "test",
+        choice2: "test",
+        choice3: "test,
+        choice4: "test",
+        answer: 3,
+    },
+    {
+        question: " Test",
+        choice1: "test",
+        choice2: "test",
+        choice3: "test",
+        choice4: "test",
+        answer: 4,
+    },
+];
