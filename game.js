@@ -108,6 +108,20 @@ let questions = [
         choice3: 'Hannover',
         answer: 1,
     },
+    {
+        question: 'Wie heißt die Hauptstadt von Bremen?',
+        choice1: 'Erfurt',
+        choice2: 'Bremen',
+        choice3: 'Hannover',
+        answer: 2,
+    },
+    {
+        question: 'Wie heißt die Hauptstadt von Brandenburg?',
+        choice1: 'Potsdam',
+        choice2: 'Wiesbaden',
+        choice3: 'Hamburg',
+        answer: 1,
+    },
   ];
 
   //CONSTANTS
